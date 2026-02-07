@@ -120,7 +120,7 @@ vendor-performance-analysis/
   - Bulk Purchase Savings
   - Performance Heatmaps
 
-![Vendor Performance Dashboard](images/dashboard.png)
+[![Vendor Performance Dashboard](images/dashboard.png)](https://github.com/Ankit-Singh-03/vendor_performance_analysis_sql_python_powerBI/blob/main/Dashboard_image.png)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
@@ -159,4 +159,5 @@ python scripts/get_vendor_summary.py
   
 📧 Email: ankityo300@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/ankit-singh-b0b910266/)
+
 
